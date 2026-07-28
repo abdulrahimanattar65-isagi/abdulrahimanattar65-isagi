@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Abdulrahiman Attar<br>⚡ Full Stack Developer | React * Node js * MOngoDB<br>👯 I’m looking for opportunity in Software development<br>🤝 Building AI-powered web applications<br>🌱 Learning something new every day<br>💬 abdulrahimanattar65@gmail.com<br> 
+🔭 I’m Abdulrahiman Attar<br>⚡ Full Stack Developer | React * Node js * MongoDB<br>👯 I’m looking for opportunity in Software development<br>🤝 Building AI-powered web applications<br>🌱 Learning something new every day<br>💬 abdulrahimanattar65@gmail.com<br> 
 
 
 ## 🌐 Socials:
